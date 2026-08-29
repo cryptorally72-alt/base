@@ -7,4 +7,4 @@ Token.sol — ERC20 utility token
 // update faucet limitations
 // add proposal lifecycle notes
 // improve deployment planning
-
+// expand security considerations
