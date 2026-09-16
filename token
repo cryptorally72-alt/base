@@ -9,6 +9,7 @@ Token.sol — ERC20 utility token
 // improve deployment planning
 // expand security considerations
 // update testing assumptions
+++--
 Initial project setup for Base mini project
 Add basic project description
 Update README with project goal
@@ -26,7 +27,7 @@ Add phase 2 planning notes
 Expand roadmap details
 Fix typo in roadmap
 Improve formatting in README
-
+Add section for smart contracts
 
 
 
